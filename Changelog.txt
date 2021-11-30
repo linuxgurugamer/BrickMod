@@ -1,0 +1,14 @@
+Changes by linuxgurugamer
+
+	Converted all textures to dds
+	Fixed some formatting
+	Added StartingTech and Starting cost to all parts, used start for all
+	Fixed a few syntax errors
+
+Note:  This needs a lot of work to be used in a career game.  Among other things:
+
+	Bulkhead profiles need to be added to all parts
+	Tags need to be added to all parts
+	Some new fields need to be added
+	Some old fields need to be removed
+
