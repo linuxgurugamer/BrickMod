@@ -1,5 +1,6 @@
 Changes by linuxgurugamer
 
+0.0.0.1
 	Converted all textures to dds
 	Fixed some formatting
 	Added StartingTech and Starting cost to all parts, used start for all
