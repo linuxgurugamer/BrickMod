@@ -1,0 +1,27 @@
+{
+  "NAME": "BrickMod",
+  "URL": "http://ksp.spacetux.net/avc/BrickMod",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/BrickMod/releases",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "BrickMod"
+  },
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 0,
+    "PATCH": 0,
+    "BUILD": 1
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 2
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 9,
+    "PATCH": 0
+  }
+}
+
+
