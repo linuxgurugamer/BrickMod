@@ -1,3 +1,6 @@
+Adopted by Linuxgurugamer, with lots of updates from forum user @AtomicTech aka github user JamesErvin-5
+
+
 BrickMod Expanded by Roboto
 Original BrickMod by Keptin – http://forum.kerbalspaceprogram.com/showthread.php/2503-v0-6-BrickMod?p=184729&viewfull=1#post184729
 
