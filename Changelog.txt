@@ -21,6 +21,12 @@ Changes by linuxgurugamer
 		Brick2x4L
 		BrickTwinWingTail
 
+	Thanks to @James Ervin for these and many other:
+		BrickPod - Minor Changes that make it more like the MK-1 Command Pod.
+		BrickRadialThruster - Brought it inline with the MK-55 "Thud" Liquid Fuel Engine
+		BrickDropTank - Brought it inline with the FL-T400 Fuel Tank as a dropable variant
+		BrickFuelTankSmall - Brought it inline with the FL-T100 Fuel Tank
+
 
 0.0.0.1
 	Converted all textures to dds
