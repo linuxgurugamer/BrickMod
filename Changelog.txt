@@ -30,7 +30,6 @@ Changes by linuxgurugamer
 
 Note:  This needs a lot of work to be used in a career game.  Among other things:
 
-	Bulkhead profiles need to be added to all parts
 	Tags need to be added to all parts
 	Some new fields need to be added
 	Some old fields need to be removed
