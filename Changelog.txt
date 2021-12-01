@@ -1,5 +1,27 @@
 Changes by linuxgurugamer
 
+0.0.0.2 (unreleased)
+	Added bulkheadProfiles to all parts
+	Fixed bottom attachmentNode on 
+		BrickEngineStandard
+		brickStackDecoupler
+		brickDockingPort
+		canopy1
+
+	Fixed srf attachnode on:
+		brickFuelStandard
+		brickRadialDecoupler
+		brickWinglet2
+
+	Fixed part files (module name was wrong):
+		4x8WingRight
+		4x8WingLeft
+		Brick6x12WingLeft
+		Brick6x12WingRigh
+		Brick2x4L
+		BrickTwinWingTail
+
+
 0.0.0.1
 	Converted all textures to dds
 	Fixed some formatting
