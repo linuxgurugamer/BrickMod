@@ -1,6 +1,6 @@
 Changes by linuxgurugamer
 
-0.0.0.2 (unreleased)
+0.0.0.2 
 	Added bulkheadProfiles to all parts
 	Fixed bottom attachmentNode on 
 		BrickEngineStandard
