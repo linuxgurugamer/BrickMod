@@ -1,5 +1,9 @@
 Changes by linuxgurugamer
 
+0.0.0.3 
+	Thanks to @James Ervin for these and many other:
+		For many parts, temperature tolerance reduced, added 
+			better description, manufacturer, and name.
 0.0.0.2 
 	Added bulkheadProfiles to all parts
 	Fixed bottom attachmentNode on 
