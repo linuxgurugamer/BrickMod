@@ -1,4 +1,4 @@
-Adopted by Linuxgurugamer, with lots of updates from forum user @AtomicTech aka github user JamesErvin-5
+Adopted by Linuxgurugamer, with lots of updates from forum user @AtomicTech/ GitHub user JamesErvin-5.
 
 
 BrickMod Expanded by Roboto
