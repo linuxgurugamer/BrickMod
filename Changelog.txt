@@ -1,5 +1,9 @@
 Changes by linuxgurugamer
 
+0.0.0.4
+	Updated version info to use github for new version info
+	Copied web page to README-WEB.md
+	
 0.0.0.3 
 	Thanks to @James Ervin for these and many other:
 		For many parts, temperature tolerance reduced, added 
